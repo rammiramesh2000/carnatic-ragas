@@ -128,6 +128,9 @@ Govindamiha by Narayana Theertha
 
 Ragamalika
 Baro Krishnayya by Kanakadasar
+Theeratha vilayattu pillai
+Maitreem Bhajatha by Sri Paramacharyar
+Bavayami Raghuramam
 
 Pantuvarali
 Raghuvara Naanu
@@ -581,10 +584,6 @@ Sriman Narayana by Annamacharya
 Melukovayya
 Sambho Mahadeva by Tyagaraja
 
-Ragamalika
-Theeratha vilayattu pillai
-Maitreem Bhajatha by Sri Paramacharyar
-
 Varali
 Kana kana ruchira,
 Eti janmamiti Tyagaraja
@@ -653,9 +652,9 @@ Brindavanasaranga
 
 Mukhari
 Brahma Kadigina Padamu by Annamacharya
-Entaninne by Tyagaraja
-Ksheenamai by Tyagaraja
-Elavatara by Tyagaraja
+Entaninne by Thyagaraja
+Ksheenamai by Thyagaraja
+Elavatara by Thyagaraja
 Endraikku Siva Krupai by Neelakanta Sivan
 
 Desh
@@ -673,7 +672,7 @@ Purahara Nandana by  Muthuswami Dikshithar
 Manamuleda by Thyagaraja
 Venkatasaila Vihara by  Subbaraya Sastri
 Thoomani Madathu in Thiruppavai
-Nadamurali by Oothukadu Venkatasubbier
+Nadamurali by Oothukadu Venkatakavi
 Gangeya Vasana by Swati Tirunal
 
 Gowrimanohari
@@ -729,7 +728,7 @@ Karpanai endralum karchilai endralum by Vali-TMS
 
 Charukesi
 Adamodi Galade by Thyagaraja
-Kripaya pālaya saure by Swati Tirunal
+Kripaya pālaya saure by Swati Thirunal
 Innum En Manam varnam by Lalgudi Jayaraman
 Samanyavalla Shri Hari by Purandaradasar
 ​
@@ -753,9 +752,9 @@ Koluvaiyunnade by Thyagaraja
 Upacharamulanu Chekonavayya Thyagaraja
 Enati nomu phalamo by Thyagaraja
 Lalithe Sri Pravriddhe by Thyagaraja
-Sri Kamalambayah Param by Muthuswami Dikshithar
+Sri Kamalambayah Param by Dikshithar
 Chintaya Makanda by Muthuswami Dikshithar
-Balagopala Palayashumam by Muthuswami Dikshithar
+Balagopala Palayashumam by Dikshithar
 (Swarajati)Kamakshi Amba by Syama Shastri
 Yaro Ivar Yaro by Arunachala Kavi
 Nee Paadamule by Patnam Subramania Iyer
