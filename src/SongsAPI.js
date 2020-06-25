@@ -257,9 +257,9 @@ Harinarayana by Purandaradasar
 
 Karaharapriya
 Chakkani raja margamu ,
-Pakkala Nilabaḍi,
+Pakkala Nilabaḍi
 Rāmā nī samānamevaru by Tyagaraja
-Senthil andavan,
+Senthil andavan
 Janaki pathe by Papanasam Sivan
 Okkaparikokkapari by Annamacharya.
 
@@ -416,7 +416,7 @@ Nee poi azhaithu vaadi by Ambujam Krishna
 Charanamule Nammiti by Bhadrachala Ramadasar
 
 Khamas
-Santana gopala krishnam
+Santana Gopala Krishnam
 Shadanane sakalam arpayami
 Sarasa Dala Nayana by Muthuswami Dikshithar
 Sujana jeevana
