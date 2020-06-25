@@ -3,7 +3,7 @@ Arabhi
 Sarasija Mukhi by Pallavi Doraiswamy Iyer
 Anname aravabharanai varnam by Tiger Varadachariar
 Lalisidalu Magana by Purandara Dasar
-Chutamu rare by Thyagaraja
+Chutamu Rare by Thyagaraja
 Saadinchane O Manasa by Thyagaraja
 Chaala kallalaadu by Thyagaraja
 O Rajeevaksha by Thyagaraja
