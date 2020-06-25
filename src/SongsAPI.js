@@ -276,7 +276,7 @@ Shanmukhapriya
 Vaddane vaaru by Tyagaraja
 Marivere Dikkevarayya by Patnam Subramania Iyer
 Parvati nayakane,
-Saravana bhava ennum,
+Saravana bhava ennum by Papanasam Sivan
 Andavane unnai by Papanasam Sivan
 Valli Nayakane by Muthiah Bhagavatar
 Siddhi Vinayakam, by Muthuswami Dikshithar
