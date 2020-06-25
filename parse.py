@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import json
 capture_raaga = True
 
@@ -36,5 +37,33 @@ for song in songs:
 for c in sorted(list(composers)):
 	print(c) 
 
-with open('rag-out.txt', 'w') as f:
-	f.write(json.dumps(songs, indent=2))
+songsapi = """
+const songlist =`"""
+songsapi += json.dumps(songs, indent=2)
+songsapi += """
+`;
+
+export const getAll = () => {
+  const albumProm = new Promise((resolve) => {
+    const songs = JSON.parse(songlist).sort((songA, songB) => (
+      (songA.title.toUpperCase() < songB.title.toUpperCase()) ? -1 : 1
+    ));
+
+    let album = [];
+    songs.map( song => song.raagas.map( raagam => {
+      const shelf = album.find( shelf => shelf.raagam === raagam);
+      (shelf === undefined) ? album.push({
+            raagam: raagam,
+            collapsed: false,
+            songs: [song]
+      }) : shelf.songs.push(song);
+      return shelf;
+    }));
+    resolve(album.sort((albumA, albumB) => (albumA.raagam.toUpperCase() < albumB.raagam.toUpperCase()) ? -1 : 1));
+  });
+  return albumProm.then((album) => album);
+}
+"""
+
+with open('src/SongsAPI.js', 'w') as f:
+	f.write(songsapi)

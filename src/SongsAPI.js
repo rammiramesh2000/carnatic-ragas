@@ -1,5 +1,5 @@
-const songlist = `
-[
+
+const songlist =`[
   {
     "composers": [
       "Pallavi Doraiswamy Iyer"
@@ -4327,7 +4327,6 @@ const songlist = `
   }
 ]
 `;
-
 
 export const getAll = () => {
   const albumProm = new Promise((resolve) => {
