@@ -26,7 +26,7 @@ Sarasiruhanayane by Thyagaraja
 Aananda amrutakarshini amritavarshini by Dikshithar
 Siddhi Nayakena by Dr. M. Balamuralikrishna
 Sthirata Nahi Nahi Re by Sadashiva Brahmendra
-Sudhamayee Sudhanidi by Muthiah Bhagavatar
+Sudhamayee Sudhanidi by Harikesanallur Muthiah Bhagavatar
 Anni Mantramulu Inde  by Annamacharya
 Mayil vahana manamohana by Mayuram Vishvanatha shastri
 
@@ -75,11 +75,11 @@ Pathiki Harathi (Utsava Sampradaya Krithi) by Thyagaraja
 
 Hamsanandhi
 Paahi jagajanani
-Sankara Sreegiri by Swati Tirunal
+Sankara Sreegiri by Swati Thirunal
 Srinivasa Thiruvenkata by Papanasam Sivan
 Paavana Guru Pavanapura by Lalitha Dasa
-Hantha njan enthu ,Padam in Malayalam by Swati Tirunal
-Nidhu mahima pogada by Muthiah Bhagavatar
+Hantha njan enthu ,Padam in Malayalam by Swati Thirunal
+Nidhu mahima pogada by Harikesanallur Muthiah Bhagavatar
 
 Poorvikalyani
 Paraloka Sadhaname
@@ -87,7 +87,7 @@ Paripoornakama
 Gnanamosagarada
 Tanavari tanamu by Thyagaraja
 Meenakshi Memudam
-Ekamranatham by Muthuswami Dikshithar
+Ekamranatham by Dikshithar
 Ninnuvina Gamari  by Shyama Sastri
 Ksheera Sagara
 Paradeivam by Papanasam Sivan
@@ -95,7 +95,7 @@ Ananda Natamaduvar by Neelakanta Sivan
 ​
 Begada
 Vallabha Nayakasyam
-Srimatha Shiva vamange by Muthuswami Dikshithar
+Srimatha Shiva vamange by Dikshithar
 Intha Chalamu- varnam Veenai Dhanammal
 Hari Narayana enu by Purandaradasar
 Sankari neeve by Subbarayan sastri
@@ -231,7 +231,7 @@ Enu dhanyalo lakumi by Purandara Dasar
 Kārthikeya Gangeya
 Kadaikkan nokki
 Thamatham en swami by Papanasam Sivan
-Ninne namminanu by Shyama Shastri
+Ninne namminanu by Shyama Sastri
 Thaye Yashoda by Oothukadu Venkata Kavi
 Ananda Natesa  by Ramaswamy Sivan
 Thanithirunthu Vazhum  by K.B.Sundarambal
