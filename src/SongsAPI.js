@@ -17,11 +17,8 @@ Narasimham Mamava by Swathi Thirunal
 Hamsanadam
 kalyana rama by Oothukkadu Venkata Kavi
 Bantureethi Koluvu by Thyagaraja
-Kripanidhe by Muthiah Bhagavatar
+Kripanidhe by Harikesanallur Muthiah Bhagavatar
 Pada vendume by  Dandapani Desikar
-
-Ragamalika
-​Sri chakra raja simhasaneswari by Agastya
 
 Amrithavarshini
 Ennai Nee Maravade by Dandapani Desikar
@@ -131,6 +128,7 @@ Baro Krishnayya by Kanakadasar
 Theeratha vilayattu pillai
 Maitreem Bhajatha by Sri Paramacharyar
 Bavayami Raghuramam
+​Sri chakra raja simhasaneswari by Agastya
 
 Pantuvarali
 Raghuvara Naanu
@@ -366,10 +364,6 @@ Parvati Nayaka in Swati Thirunal
 Karunanidhiye thaye  by Papanasam Sivan
 Ekkadi Manusha Janmam by Annamacharya
 Sri Parvati Parameshvarau by Dikshithar
-
-Ragamalika
-Theeratha vilayattu pillai
-Maitreem Bhajatha by Sri Paramacharyar
 
 Varali
 Kana kana ruchira,
@@ -740,8 +734,8 @@ Eppadi padinaro by Sudhananda Bharathi
 Entha cheluvage by Purandaradasar
 
 Sudha Dhanyasi
-Enta Nerchina by Tyagaraja
-Himagiri Tanaye by Harikesanallur Muttiah Bhagavathar
+Enta Nerchina by Thyagaraja
+Himagiri Tanaye by Harikesanallur Muthiah Bhagavathar
 Subrahmanyena Rakshitom by Dikshithar
 Narayana ninna by Purandaradasar
 Bhavamulona by Annamacharya
@@ -756,7 +750,7 @@ Lalithe Sri Pravriddhe by Thyagaraja
 Sri Kamalambayah Param by Dikshithar
 Chintaya Makanda by Dikshithar
 Balagopala Palayashumam by Dikshithar
-(Swarajati)Kamakshi Amba by Syama Shastri
+(Swarajati)Kamakshi Amba by Syama Sastri
 Yaro Ivar Yaro by Arunachala Kavi
 Nee Paadamule by Patnam Subramania Iyer
 Janani Mamava (5th navaratri kriti) by Swathi Thirunal
