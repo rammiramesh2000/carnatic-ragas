@@ -162,7 +162,7 @@ Jonpuri
 Madhava loka nam by Swathi Thirunal
 Eppo Varuvaro by Gopalakrishna Bharathi
 Sapasyat kausalya by Panchapakesa Sastri
-Rama mantrava by Purandaradasa
+Rama mantrava by Purandaradasar
 Asai Mugham Marandhu Poche by Bharathiyar
 Chidanandadam Srinivasam by Kalyani Varadarajan
 
@@ -174,7 +174,7 @@ Bhuvini daasudane
 Sogasuga mrudanga talamu by Thyagaraja
 Ni sati deivamu
 Balambikaye
-Parvata raja kumari by Muthuswami Dikshithar
+Parvata raja kumari by Dikshithar
 Ini oru kanam unnai
 Kaana Vendamo
 Gajavadana karuna by Papanasam Sivan
@@ -235,11 +235,11 @@ Kadaikkan nokki
 Thamatham en swami by Papanasam Sivan
 Ninne namminanu by Shyama Shastri
 Thaye Yashoda by Oothukadu Venkata Kavi
-Ananda Natesa -Ramaswamy Sivan
+Ananda Natesa  by Ramaswamy Sivan
 Thanithirunthu Vazhum  by K.B.Sundarambal
 Gajavadana sammodita by Kumara ettendra
-Geetham- Kalaimagale Periyasamy Thooran
-Varnam- Kanakangi Pallavi Gopalaiyer
+Geetham- Kalaimagale by Periyasamy Thooran
+Varnam- Kanakangi by Pallavi Gopalaiyer
 Meenalochani amba by Harikesanallur Muthiah Baghavathar
 
 Sankarabaranam
@@ -249,8 +249,8 @@ Shyamale Meenakshi
 Thookiya thiruvadi Sudhananda Bharathi
 
 Sindubhairavi
-Venkatachala Nilayam - Purandara dasar
-Kalyana Gopalam - Narayana Theerthar
+Venkatachala Nilayam  by Purandara dasar
+Kalyana Gopalam  by  Narayana Theerthar
 
 Kedaram
 Rama Neepai by Tyagaraja
@@ -261,7 +261,7 @@ Harinarayana by Purandaradasar
 Karaharapriya
 Chakkani raja margamu ,
 Pakkala Nilabaḍi
-Rāmā nī samānamevaru by Tyagaraja
+Rāmā nī samānamevaru by Thyagaraja
 Senthil andavan
 Janaki pathe by Papanasam Sivan
 Okkaparikokkapari by Annamacharya.
@@ -276,18 +276,18 @@ Rama nama payasake Krishna nama
 Karpagavalli nin porpadangal pidithen
 
 Shanmukhapriya
-Vaddane vaaru by Tyagaraja
+Vaddane vaaru by Thyagaraja
 Marivere Dikkevarayya by Patnam Subramania Iyer
 Parvati nayakane,
 Saravana bhava ennum by Papanasam Sivan
 Andavane unnai by Papanasam Sivan
-Valli Nayakane by Muthiah Bhagavatar
-Siddhi Vinayakam, by Muthuswami Dikshithar
+Valli Nayakane by Harikesanallur Muthiah Bhagavatar
+Siddhi Vinayakam, by Dikshithar
 
 Hindolam
-Samaja vara gamana by Tyagaraja
+Samaja vara gamana by Thyagaraja
 Gōvardhana Girīśam Smarāmi,
-Neerajakshi Kamakshi  by Muthuswami Dikshithar
+Neerajakshi Kamakshi  by Dikshithar
 Maa Ramanan,
 Sāma Gāna lolalane
 and Nambikettavar by Papanasam Sivan
@@ -310,19 +310,19 @@ Evarura ninnuvina
 Bhavanutha by Thyagaraja
 Narasimha Agaccha,
 Kadambari priyayaih ,
-Gopika manoharamby Muthuswamy Muthuswami Dikshithar
+Gopika manoharam by Dikshithar
 Kapaali,
 karunai
 Narayana divyanamam by Papanasam Sivan
 Rara Rajiva lochana by Mysore Vasudevachariar
 En palli kondeer aiyya by Arunachala Kavi
-Swagatam Krishna by Oottukkadu Venkata Kavi
+Swagatam Krishna by Oothukkadu Venkata Kavi
 
 Vasantha
 Ninne kori, varnam by Tecchur Singarachari
-Sitamma Mayamma by Tyagaraja
+Sitamma Mayamma by Thyagaraja
 Harihara putram
-Ramachandram Bhavayami by Muthuswami Dikshithar
+Ramachandram Bhavayami by Dikshithar
 Paramapurusha Jagadeesha by Swathi Thirunal
 Malmaruga Shanmukha by Papanasam Sivan
 Natanam Adinar by Gopalakrishna Bharathi
@@ -331,7 +331,7 @@ Rajeswarim Sambhavaye by Ganapathi Sachchidananda Swamiji
 Nattai
 Maha ganapathim
 Jagadananda karaka
-Swaminathan paripalaya
+Swaminatha paripalaya
 
 Saramathi
 Mokshamugalada
@@ -360,12 +360,12 @@ Bowli
 Brahmam okate by Annamacharya
 Shambo Mahadeva by Neelakanta Sivan
 Sriman Narayana by Annamacharya
-Melukovayya by Tyagaraja
-Tappulanniyu by Muthiah Bhagavatar
-Parvati Nayaka in Swati Tirunal
+Melukovayya by Thyagaraja
+Tappulanniyu by Harikesanallur Muthiah Bhagavatar
+Parvati Nayaka in Swati Thirunal
 Karunanidhiye thaye  by Papanasam Sivan
 Ekkadi Manusha Janmam by Annamacharya
-Sri Parvati Parameshvarau by Muthuswami Dikshithar
+Sri Parvati Parameshvarau by Dikshithar
 
 Ragamalika
 Theeratha vilayattu pillai
@@ -374,26 +374,26 @@ Maitreem Bhajatha by Sri Paramacharyar
 Varali
 Kana kana ruchira,
 Eti janmamiti
-Marakathamani by Tyagaraja
+Marakathamani by Thyagaraja
 Mamava Meenakshi
-Seshachala nayakam by Muthuswami Dikshithar
+Seshachala nayakam by Dikshithar
 Karuna judavamma
 Bangaru Kamakshi by Shyama Shastri
 Mamava Padmanabha by Swathi Thirunal
 Intha prodayye and Valapu by Kshetrajna padam
 Ka Vaa Vaa
 Dikku verillai by Papanasam Sivan
-Kannare Kande Achyuthana by Purandara Dasa
+Kannare Kande Achyuthana by Purandara Dasar
 Azhi mazhai Kanna from Thiruppavai
 
 Neelambari
 Srirama rama rama,
 Uyyala Lugavayya,
 Laliyugave of Tyagaraja
-Amba Neelayadakshi  by  Muthuswami Dikshithar
+Amba Neelayadakshi  by Dikshithar
 Amba Neelambari  by Ponniah Pillai
 Madhava Maamava by Narayana Theertha
-Maninpuri Dhari by Oothukadu Venkatakavi
+Maninpuri Dhari by Oothukadu Venkata Kavi
 Tholiyu
 Bangaru Murali
 Kanthanodu chennu by Swathi thirunal
@@ -406,7 +406,7 @@ Sri Valli deva senapathe by Papanasam Sivan
 Parulaseva by Poochi Srinivasa  Iyengar
 
 Kapi
-Jagadoddhārana by Purandaradasa
+Jagadoddhārana by Purandaradasar
 Mee valla gunadoshamemi by  Thyagaraja
 Intha Sowkhya  by Thyagaraja
 Viharamanasa Rame by Swathi thirunal
@@ -422,34 +422,34 @@ Charanamule Nammiti by Bhadrachala Ramadasar
 Khamas
 Santana Gopala Krishnam
 Shadanane sakalam arpayami
-Sarasa Dala Nayana by Muthuswami Dikshithar
+Sarasa Dala Nayana by Dikshithar
 Sujana jeevana
 Seethapathe  by Tyagaraja
-Entaninne by Subbarama Muthuswami Dikshithar
+Entaninne by Subbarama Dikshithar
 Broche vaarevaru ra
 Intha paraakaelanayya by Mysore Vasudevachariar
 Idathu padam thookki by Papanasam Sivan
 Thillana by Patnam Subramania Iyer
 Dolayam chala Dolayam chala by Annamacharya
-Mate malaya dhvaja pandya sanjate by Muthiah Bhagavatar
+Mate malaya dhvaja pandya sanjate by Harikesanallur Muthiah Bhagavatar
 Sarasa sama mukha
-palaya mamayi by Swathi Tirunal
+palaya mamayi by Swathi Thirunal
 Jayati jayati bharata mata by Mayuram Vishvanatha shastri
 Konji konji va Guhane by Periyasamy Thooran
 
 Yamunakalyani
-Jamboopathe by Muthuswami Dikshithar,
-Krishna Nee Begane by Vyasatirtha,
+Jamboopathe by Dikshithar,
+Krishna Nee Begane by Vyasatirthar,
 Bhavayami Gopalam by Annamacharya
-Pibare Ramarasam by Sadashiva Brahmendra
+Pibare Ramarasam by Sadashiva Brahmendrar
 O Rama Nee Nama by Bhadrachala Ramadasar
 Sri Ramachandra Kripalu by Sant Tulsidas
-Haridasulu by Tyagaraja.
+Haridasulu by Thyagaraja.
 ​
 Saranga
 Intha modi varnam by Thiruvotriyur Thyagaiyer
 Gana Nathane by Periyasamy Thooran
-Arunachala natham smarami by Muthuswami Dikshithar
+Arunachala natham smarami by Dikshithar
 Mamava Raghurama by Thyagaraja
 
 Kalyani
@@ -458,10 +458,10 @@ Vasudevayani
 
 Kambhoji
 Evari Mata
-O Ranga Sayee by Tyagaraja
+O Ranga Sayee by Thyagaraja
 Shri Subrahmanyaya Namaste
-Marakathavallim by Muthuswami Dikshithar
-Sarasijanabha (Varnam) by Swathi Thirunale
+Marakathavallim by Dikshithar
+Sarasijanabha (Varnam) by Swathi Thirunal
 Kanakan Kodi Vendum  Papanasam Sivan
 
 Thodi
@@ -476,11 +476,11 @@ Emi jesithe nemi
 Sarasijanabha Murare
 Shri Krishnam
 Daakshayani
-Kamalambike by Muthuswami Dikshithar
+Kamalambike by Dikshithar
 Kārthikeya Gangeya
 Thamatham en swami by Papanasam Sivan
-Thaye Yashoda by Oothukadu Venkata Subbier
-Ananda Natesa -Ramaswamy Sivan
+Thaye Yashoda by Oothukadu Venkata Kavi
+Ananda Natesa by Ramaswamy Sivan
 
 Sankarabaranam
 Swararagha Sudha rasa
@@ -488,14 +488,14 @@ Saroja dala netri
 Shyamale Meenakshi
 
 Sindubhairavi
-Venkatachala Nilayam - Purandara dasa
+Venkatachala Nilayam  by Purandara dasar
 Kedaram
-Ananda natana prakasham by Muthuswami Dikshithar
+Ananda natana prakasham by Dikshithar
 
 Karaharapriya
 Chakkani raja margamu ,
 Pakkala Nilabaḍi,
-Rāmā nī samānamevaru by Tyagaraja
+Rāmā nī samānamevaru by Thyagaraja
 Senthil andavan,
 Janaki pathe by Papanasam Sivan
 Okkapari kokkapari by Annamacharya.
@@ -509,16 +509,16 @@ Rama nama payasake Krishna nama
 Karpagavalli nin porpadangal pidithen
 
 Shanmukhapriya
-Vaddane vaaru by Tyagaraja
+Vaddane vaaru by Thyagaraja
 Marivere Dikkevarayya by Patnam Subramania Iyer
 Saravana bhava enum thirumandiram
-Valli Nayakane by Muthiah Bhagavatar
-Siddhi Vinayakam, by Muthuswami Dikshithar
+Valli Nayakane by Harikesanallur Muthiah Bhagavatar
+Siddhi Vinayakam, by Dikshithar
 
 Hindolam
-Samaja vara gamana by Tyagaraja
+Samaja vara gamana by Thyagaraja
 Gōvardhana Girīśam Smarāmi,
-Neerajakshi Kamakshi  by Muthuswami Dikshithar
+Neerajakshi Kamakshi  by Dikshithar
 Maa Ramanan,
 Sāma Gāna lolalane
 Nambikettavar by Papanasam Sivan
@@ -540,7 +540,7 @@ Evarura ninnuvina
 Bhavanutha by Thyagaraja
 Narasimha Agaccha,
 Kadambari priyayaih ,
-Gopika manoharamby Muthuswamy Muthuswami Dikshithar
+Gopika manoharam by Dikshithar
 Kapaali,
 karunai
 Rara Rajiva lochana by Mysore Vasudevachariar
@@ -549,7 +549,7 @@ Swagatam Krishna by Oottukkadu Venkata Kavi
 
 Vasantha
 Ninne kori, varnam by Tecchur Singarachari
-Sitamma Mayamma by Tyagaraja
+Sitamma Mayamma by Thyagaraja
 Natanam Adinar by Gopalakrishna Bharathi
 
 Nattai
@@ -564,7 +564,7 @@ Jayanthasri
 Marukelara o Raghava by Thyagaraja
 
 Kanada
-Alai payude kanna by Oothukadu Venkatakavi
+Alai payude kanna by Oothukadu Venkata Kavi
 Mamava sada Janani by Swathi Thirunal
 
 Kurinji
@@ -583,13 +583,13 @@ Bowli
 Brahmam okate by Annamacharya
 Sriman Narayana by Annamacharya
 Melukovayya
-Sambho Mahadeva by Tyagaraja
+Sambho Mahadeva by Thyagaraja
 
 Varali
 Kana kana ruchira,
-Eti janmamiti Tyagaraja
+Eti janmamiti Thyagaraja
 Mamava Meenakshi
-Seshachala nayakam by Muthuswami Dikshithar
+Seshachala nayakam by Dikshithar
 Mamava Padmanabha by Swathi Thirunal
 Ka Vaa Vaa
 
@@ -597,12 +597,12 @@ Neelambari
 ​Ennaga Manasu
 Uyyala Lugavayya
 Laliyugave by Thyagaraja
-Amba Neelayadakshi by Muthuswami Dikshithar
+Amba Neelayadakshi by Dikshithar
 Brovavamma by Shyama Sastri
-Thookithale by Purandaradasa .
+Thookithale by Purandaradasar .
 Amba Neelambari by  Ponniah Pillai
-Madhava Mamava by  Narayana Theertha .
-Maninupura Dhari by  Oothukadu Venkatakavi
+Madhava Mamava by  Narayana Theerthar
+Maninupura Dhari by  Oothukadu Venkata Kavi
 Tholiyu
 Kanthanodu chennu
 Anandavalli
@@ -620,17 +620,17 @@ Siva Siva Sive Ena Radha
 Appa rama bhakti
 Naradamuni
 Shobane (Utsava Sampradaya) by Thyagaraja
-Sarasaksha paripalaya by  Swati Tirunal
+Sarasaksha paripalaya by  Swati Thirunal
 
 Shubhapantuvarali.
 Ennalu urake by Thyagaraja
-Sri Satyanarayanam by Muthuswami Dikshithar
+Sri Satyanarayanam by Dikshithar
 Paripahimam Shri Dasarathe by Mysore Vasudevachariar
 
 Jonpuri
 Eppo Varuvaro by Gopalakrishna Bharathi
 Sapasyat kausalya by Panchapakesa Sastri
-Rama mantrava by Purandaradasa
+Rama mantrava by Purandaradasar
 Asai Mugham Marandhu Poche by Bharathiyar
 Chidanandadam Srinivasam by Kalyani Varadarajan
 
@@ -649,7 +649,7 @@ Dinamani vamsha by Thyagaraja
 Saketha Niagara natha by Mysore Sadasiva rao
 
 Brindavanasaranga
-​Rangapura vihara by Muthuswami Dikshithar
+​Rangapura vihara by Dikshithar
 
 Mukhari
 Brahma Kadigina Padamu by Annamacharya
@@ -664,17 +664,17 @@ Thunbam neigayil yazheduthu by Bharathidasan.
 
 Dwijavanthi
 ​Akhilaandeshwari Rakshamaam
-Chethashri Baalakrishnam by Muthuswami Dikshithar
+Chethashri Baalakrishnam by Dikshithar
 Tharuni jnan by Swathi thirunal
 
 Hameerkalyani
 Parimala Ranganatham
-Purahara Nandana by  Muthuswami Dikshithar
+Purahara Nandana by Dikshithar
 Manamuleda by Thyagaraja
 Venkatasaila Vihara by  Subbaraya Sastri
 Thoomani Madathu in Thiruppavai
-Nadamurali by Oothukadu Venkatakavi
-Gangeya Vasana by Swati Tirunal
+Nadamurali by Oothukadu Venkata Kavi
+Gangeya Vasana by Swati Thirunal
 
 Gowrimanohari
 Guruleka etuvanti by Thyagaraja
@@ -685,12 +685,12 @@ Abheri
 Nagumomu ganaleni by Thyagaraja
 Bhajare re manasa
 Gokula nilaya krupalaya by Mysore Vasudevachariar
-Vinabheri  by Muthuswami Dikshithar
+Vinabheri  by Dikshithar
 Vellai thamarai  by  Bharathiyar
 
 Abhogi
 Nannu brova by Thyagaraja
-Śri Lakṣhmi varāham by Muthuswami Dikshithar
+Śri Lakṣhmi varāham by Dikshithar
 Sabhāpatikku veru daivam by Gopalakrishna Bharathi
 Evvari bodhana, varnam by Patnam Subramania Iyer
 Nekkurugi unnai by Papanasam Sivan
@@ -698,24 +698,24 @@ Manujudai Putti by Annamacharya
 
 Andholika
 Raga Sudha Rasa by Thyagaraja
-Sevikka Vendumayya in by Muthu Thandavar
+Sevikka Vendumayya  by Muthu Thandavar
 
 Sama
-Annapurna Vishalakshi  by Muthuswami Dikshithar
+Annapurna Vishalakshi  by Dikshithar
 Santamu lekha by  Thyagaraja
 Manasa Sancharare by Sadashiva Brahmendra
 Narayana Nalinayatha lochana by Papanasam Sivan
-Maravakave o manasa by Patnam Subramaniam Iyer
+Maravakave o manasa by Patnam Subramania Iyer
 
 Hindolam
 Sāmajavara gamanā
 Manasuloni Marmamulu
 Govardhana Giridhari  by Thyagaraja
 Mamavatu śri Sarasvati by Mysore Vasudevachariar
-Rama mantrava japiso by Purandaradasa
+Rama mantrava japiso by Purandaradasar
 Gōvardhana Girīśam Smarāmi
 Neerajakshi Kamakshi
-Saraswati Vidhiyuvathi by Muthuswami Dikshithar
+Saraswati Vidhiyuvathi by Dikshithar
 Padmanabha Pāhi by Swathi Thirunal
 Maa Ramanan
 Sāma Gāna lolalane
@@ -735,14 +735,14 @@ Samanyavalla Shri Hari by Purandaradasar
 ​
 Karnataka Devagandhari
 Panchashat peetaroopini
-Kayarohanesham by Muthuswami Dikshithar
+Kayarohanesham by Dikshithar
 Eppadi padinaro by Sudhananda Bharathi
 Entha cheluvage by Purandaradasar
 
 Sudha Dhanyasi
 Enta Nerchina by Tyagaraja
-Himagiri Tanaye by Muttiah Bhagavathar
-Subrahmanyena Rakshitom by Muthuswami Dikshithar
+Himagiri Tanaye by Harikesanallur Muttiah Bhagavathar
+Subrahmanyena Rakshitom by Dikshithar
 Narayana ninna by Purandaradasar
 Bhavamulona by Annamacharya
 
@@ -754,7 +754,7 @@ Upacharamulanu Chekonavayya Thyagaraja
 Enati nomu phalamo by Thyagaraja
 Lalithe Sri Pravriddhe by Thyagaraja
 Sri Kamalambayah Param by Dikshithar
-Chintaya Makanda by Muthuswami Dikshithar
+Chintaya Makanda by Dikshithar
 Balagopala Palayashumam by Dikshithar
 (Swarajati)Kamakshi Amba by Syama Shastri
 Yaro Ivar Yaro by Arunachala Kavi
@@ -773,20 +773,20 @@ Sri Kamakshi  by Spencer Venugopal
 Bilahai
 Intakannananda
 Dorakuna ituvanti
-Kanukontini by Tyagaraja
-Sri Balasubramanya by Muthuswami Dikshithar
+Kanukontini by Thyagaraja
+Sri Balasubramanya by Dikshithar
 Smara Sada
 Aaradhayami
 Santhatham Bhajami  by Swathi Thirunal
 Parithana michite by Patnam Subramania Iyer
 Sri Chamundeshwari by Mysore Vasudevachariar
-Pooraya Mama Kamam (Tharangam) by Narayana Theertha
+Pooraya Mama Kamam (Tharangam) by Narayana Theerthar
 Raa ra venu gopala  (Swarajathi) by Patnam Subramania Iyer
 Intha Chouka (varnam)  by Veenai Kuppaiyer
 
 Keeravani
 Kaligiyunte by Thyagaraja
-Ambavani nannu by Muthiah Bhagavatar
+Ambavani nannu by Harikesanallur Muthiah Bhagavatar
 Balasarasa Murali by Oottukkadu Venkata Kavi
 Varamulosagi by Patnam Subramania Iyer
 Devi neeye thunai by Papanasam Sivan
@@ -815,7 +815,7 @@ Muchchada brahma
 Evariccirira
 Rama Katha Sudharasa by Thyagaraja
 Dharmasamvardhini
-Mahatripurasundari by  Muthuswami Dikshithar
+Mahatripurasundari by Dikshithar
 Palinchu kamakshi by Shyama Sastri
 Kosalendra mamavamita,
 Sarasamukha sarasijanabha by Swathi Thirunal
@@ -823,11 +823,11 @@ Sharavanabhava Guhane
 Karpagame Kan by Papanasam Sivan
 Aadaadhu Ashangaadhu vaa by Oothukkadu Venkata Kavi
 Adivo Alladivo by Annamacharya
-Shri Rama Jaya Bhuma by Muthiah Bhagavatar
+Shri Rama Jaya Bhuma by Harikesanallur Muthiah Bhagavatar
 Harivarasanam by K. Janaki Amma
 ​
 Mayamalavagowla
-Lambodara lakumikara by Purandaradasa
+Lambodara lakumikara by Purandaradasar
 Adikkondar by Muthu Thandavar
 Tulasī daḻamulache
 Mēru samāna vīra
@@ -835,7 +835,7 @@ Dēvī Śrī tulasammā
 Vidulaku Mrokkeda  by Thyagaraja
 Dēva Dēva Kalayāmi  by Swathi Thirunal
 Māyātīta Swarūpiṇi  by Ponnaiyya Pillai
-Śrīnāthādi Guruguho jayati by Muthuswami Dikshithar
+Śrīnāthādi Guruguho jayati by Dikshithar
 Śyāmalāmbikē pāhi māṃ  by  Dr. M. Balamuralikrishna
 `;
 // DO NOT EDIT BEYOND THIS
