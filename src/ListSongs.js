@@ -83,7 +83,7 @@ class ListSongs extends Component {
       })
     ));
 
-    const placeholder = `Search by ${search_mode}`;
+    const placeholder = `Enter ${search_mode} name`;
 
     //return JSX
     return (
