@@ -253,7 +253,7 @@ Kalyana Gopalam  by  Narayana Theerthar
 Kedaram
 Rama Neepai by Tyagaraja
 Ananda natana prakasham by Dikshithar
-Hare Paripahimam by Mysore Vasudevachariar
+Hare Paripahimam by Mysore Vasudevachar
 Harinarayana by Purandaradasar
 
 Karaharapriya
@@ -312,7 +312,7 @@ Gopika manoharam by Dikshithar
 Kapaali,
 karunai
 Narayana divyanamam by Papanasam Sivan
-Rara Rajiva lochana by Mysore Vasudevachariar
+Rara Rajiva lochana by Mysore Vasudevachar
 En palli kondeer aiyya by Arunachala Kavi
 Swagatam Krishna by Oothukkadu Venkata Kavi
 
@@ -337,7 +337,7 @@ Mokshamugalada
 Jayanthasri
 Marukelara o Raghava by Thyagaraja
 Neeradasama neela Krishna  by Oothukadu Venkata Kavi
-Sridhara Pahimam  by Mysore Vasudevachariar
+Sridhara Pahimam  by Mysore Vasudevachar
 
 Kanada
 Alai payude kanna
@@ -405,7 +405,7 @@ Mee valla gunadoshamemi by  Thyagaraja
 Intha Sowkhya  by Thyagaraja
 Viharamanasa Rame by Swathi thirunal
 Enna thavam seydanai Yashoda  by Papanasam Sivan
-Bhaja maadhavam anisham  by Mysore Vasudevachariar
+Bhaja maadhavam anisham  by Mysore Vasudevachar
 Jaanaki ramana dasaratha nandana  by Vanamaamalia Jiyar Swami
 Namasudha by Swathi Thirunal
 Chinnanchiru Kiliye  by Bharathiyar
@@ -421,7 +421,7 @@ Sujana jeevana
 Seethapathe  by Tyagaraja
 Entaninne by Subbarama Dikshithar
 Broche vaarevaru ra
-Intha paraakaelanayya by Mysore Vasudevachariar
+Intha paraakaelanayya by Mysore Vasudevachar
 Idathu padam thookki by Papanasam Sivan
 Thillana by Patnam Subramania Iyer
 Dolayam chala Dolayam chala by Annamacharya
@@ -516,7 +516,7 @@ Neerajakshi Kamakshi  by Dikshithar
 Maa Ramanan,
 Sāma Gāna lolalane
 Nambikettavar by Papanasam Sivan
-Mamavatu Sri Saraswati by Mysore Vasudevachariar
+Mamavatu Sri Saraswati by Mysore Vasudevachar
 Chintayami Jagadamba by Jayachamarajendra Wodeyar
 Dēva Dēvaṃ Bhajē by Annamacharya
 Ramanakku Mannan Mudi by Arunachala Kavi.
@@ -537,7 +537,7 @@ Kadambari priyayaih ,
 Gopika manoharam by Dikshithar
 Kapaali,
 karunai
-Rara Rajiva lochana by Mysore Vasudevachariar
+Rara Rajiva lochana by Mysore Vasudevachar
 En palli kondeer aiyya by Arunachala Kavi
 Swagatam Krishna by Oottukkadu Venkata Kavi
 
@@ -619,7 +619,7 @@ Sarasaksha paripalaya by  Swati Thirunal
 Shubhapantuvarali.
 Ennalu urake by Thyagaraja
 Sri Satyanarayanam by Dikshithar
-Paripahimam Shri Dasarathe by Mysore Vasudevachariar
+Paripahimam Shri Dasarathe by Mysore Vasudevachar
 
 Jonpuri
 Eppo Varuvaro by Gopalakrishna Bharathi
@@ -672,13 +672,13 @@ Gangeya Vasana by Swati Thirunal
 
 Gowrimanohari
 Guruleka etuvanti by Thyagaraja
-Varalakshmi Namostute by Mysore Vasudevachariar
+Varalakshmi Namostute by Mysore Vasudevachar
 Brova Samayamide Ramayya by Karur Devudu Iyer
 
 Abheri
 Nagumomu ganaleni by Thyagaraja
 Bhajare re manasa
-Gokula nilaya krupalaya by Mysore Vasudevachariar
+Gokula nilaya krupalaya by Mysore Vasudevachar
 Vinabheri  by Dikshithar
 Vellai thamarai  by  Bharathiyar
 
@@ -705,7 +705,7 @@ Hindolam
 Sāmajavara gamanā
 Manasuloni Marmamulu
 Govardhana Giridhari  by Thyagaraja
-Mamavatu śri Sarasvati by Mysore Vasudevachariar
+Mamavatu śri Sarasvati by Mysore Vasudevachar
 Rama mantrava japiso by Purandaradasar
 Gōvardhana Girīśam Smarāmi
 Neerajakshi Kamakshi
@@ -773,7 +773,7 @@ Smara Sada
 Aaradhayami
 Santhatham Bhajami  by Swathi Thirunal
 Parithana michite by Patnam Subramania Iyer
-Sri Chamundeshwari by Mysore Vasudevachariar
+Sri Chamundeshwari by Mysore Vasudevachar
 Pooraya Mama Kamam (Tharangam) by Narayana Theerthar
 Raa ra venu gopala  (Swarajathi) by Patnam Subramania Iyer
 Intha Chouka (varnam)  by Veenai Kuppaiyer
